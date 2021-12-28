@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "heaimis-app",
+    "slug": "heaimis-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "heaimis-app"
+}
